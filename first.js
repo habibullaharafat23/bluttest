@@ -146,9 +146,9 @@ consentdiv.innerHTML = `
     </div>
   <div class=consent-action-footer>
     <div class=action-buttons id=consentActionButtons>
-      <button action="accept" class="action-btn active" id=acceptConsentButton>ACCEPT</button>
+      <button action="accept" class="action-btn active" id=acceptConsentButton>Akzeptieren</button>
       <button action="reject" class="action-btn" id="rejectConsentButton" style="display:none">REJECT</button>
-      <button action="preference" class="action-btn bg-color" id="preferenceConsentButton">PREFERENCE</button>
+      <button action="preference" class="action-btn bg-color" id="preferenceConsentButton">Einstellungen</button>
     </div>
   </div>
   </div>
