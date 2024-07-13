@@ -216,7 +216,7 @@ preferenceConsentButton.onclick = () => {
 
       navItems[1].style.borderBottom = "2px solid #3771ce";
       allSections[1].style.display = "block";
-      prefBtn.innerText = "Save";
+      prefBtn.innerText = "Speichern";
     });
   } else {
     document
