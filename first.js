@@ -47,7 +47,7 @@ consentdiv.innerHTML = `
               <span class="catagoryIcon material-symbols-outlined">expand_more</span>
             </div>
             <div class="cookie-catagory-name">
-              <span class="consent-headlines atwithIconText cookieCatagory">Necessary</span>
+              <span class="consent-headlines atwithIconText cookieCatagory">Notwendig</span>
               <div class="totalCookiesWrapper">
                 <span class="totalCookies" id="totalNecessaryCookies"></span>
               </div>
@@ -60,7 +60,7 @@ consentdiv.innerHTML = `
             </div>
           </div>
           <div class="cookie-details-descriptions">
-            <p class="consent-descriptions">Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.</p>
+            <p class="consent-descriptions">Notwendige Cookies helfen dabei, eine Website nutzbar zu machen, indem sie grundlegende Funktionen wie die Seitennavigation und den Zugang zu sicheren Bereichen der Website ermöglichen. Ohne diese Cookies kann die Website nicht richtig funktionieren.</p>
           </div>
           <div class="all-cookies" style="display:none"></div>
         </div>
@@ -70,7 +70,7 @@ consentdiv.innerHTML = `
               <span class="catagoryIcon material-symbols-outlined">expand_more</span>
             </div>
             <div class="cookie-catagory-name">
-              <span class="consent-headlines atwithIconText cookieCatagory">Preferences</span>
+              <span class="consent-headlines atwithIconText cookieCatagory">Präferenzen</span>
               <div class="totalCookiesWrapper">
                 <span class="totalCookies" id="totalPreferencesCookies"></span>
               </div>
@@ -83,7 +83,7 @@ consentdiv.innerHTML = `
             </div>
           </div>
           <div class="cookie-details-descriptions">
-            <p class="consent-descriptions">Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.</p>
+            <p class="consent-descriptions">Präferenz-Cookies ermöglichen es einer Website, Informationen zu speichern, die das Verhalten oder das Erscheinungsbild der Website verändern, wie zum Beispiel Ihre bevorzugte Sprache oder die Region, in der Sie sich befinden.</p>
           </div>
           <div class="all-cookies" style="display:none"></div>
         </div>
@@ -93,7 +93,7 @@ consentdiv.innerHTML = `
               <span class="catagoryIcon material-symbols-outlined">expand_more</span>
             </div>
             <div class="cookie-catagory-name">
-              <span class="consent-headlines atwithIconText cookieCatagory">Analytics</span>
+              <span class="consent-headlines atwithIconText cookieCatagory">Analytik</span>
               <div class="totalCookiesWrapper">
                 <span class="totalCookies" id="totalAnalyticsCookies"></span>
               </div>
@@ -106,7 +106,7 @@ consentdiv.innerHTML = `
             </div>
           </div>
           <div class="cookie-details-descriptions">
-            <p class="consent-descriptions">Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.</p>
+            <p class="consent-descriptions">Statistik-Cookies helfen Website-Betreibern zu verstehen, wie Besucher mit Websites interagieren, indem sie Informationen anonym sammeln und melden.</p>
           </div>
           <div class="all-cookies" style="display:none"></div>
         </div>
@@ -129,7 +129,7 @@ consentdiv.innerHTML = `
             </div>
           </div>
           <div class="cookie-details-descriptions">
-            <p class="consent-descriptions">Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.</p>
+            <p class="consent-descriptions">Marketing-Cookies werden verwendet, um Besucher über Websites hinweg zu verfolgen. Die Absicht ist, Anzeigen anzuzeigen, die für den einzelnen Nutzer relevant und ansprechend sind und dadurch für Publisher und Drittanbieter-Werbetreibende wertvoller sind.</p>
           </div>
           <div class="all-cookies" style="display:none"></div>
         </div>
